@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osint\\source\\repos\\testificateClassLibrary\\testificateClassLibrary\\testificateClassLibrary.csproj": {}
+    "C:\\Users\\osint\\Desktop\\libCowDev\\libCow\\testificateClassLibrary\\testificateClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osint\\source\\repos\\testificateClassLibrary\\testificateClassLibrary\\testificateClassLibrary.csproj": {
+    "C:\\Users\\osint\\Desktop\\libCowDev\\libCow\\testificateClassLibrary\\testificateClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osint\\source\\repos\\testificateClassLibrary\\testificateClassLibrary\\testificateClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\osint\\Desktop\\libCowDev\\libCow\\testificateClassLibrary\\testificateClassLibrary.csproj",
         "projectName": "testificateClassLibrary",
-        "projectPath": "C:\\Users\\osint\\source\\repos\\testificateClassLibrary\\testificateClassLibrary\\testificateClassLibrary.csproj",
+        "projectPath": "C:\\Users\\osint\\Desktop\\libCowDev\\libCow\\testificateClassLibrary\\testificateClassLibrary.csproj",
         "packagesPath": "C:\\Users\\osint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osint\\source\\repos\\testificateClassLibrary\\testificateClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\osint\\Desktop\\libCowDev\\libCow\\testificateClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

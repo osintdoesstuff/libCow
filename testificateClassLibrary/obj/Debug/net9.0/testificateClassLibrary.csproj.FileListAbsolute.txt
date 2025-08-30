@@ -9,3 +9,15 @@ C:\Users\osint\source\repos\testificateClassLibrary\testificateClassLibrary\obj\
 C:\Users\osint\source\repos\testificateClassLibrary\testificateClassLibrary\obj\Debug\net9.0\refint\testificateClassLibrary.dll
 C:\Users\osint\source\repos\testificateClassLibrary\testificateClassLibrary\obj\Debug\net9.0\testificateClassLibrary.pdb
 C:\Users\osint\source\repos\testificateClassLibrary\testificateClassLibrary\obj\Debug\net9.0\ref\testificateClassLibrary.dll
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\bin\Debug\net9.0\testificateClassLibrary.deps.json
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\bin\Debug\net9.0\testificateClassLibrary.dll
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\bin\Debug\net9.0\testificateClassLibrary.pdb
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\testificateClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\testificateClassLibrary.AssemblyInfoInputs.cache
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\testificateClassLibrary.AssemblyInfo.cs
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\testificateClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\testificateClassLibrary.sourcelink.json
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\testificateClassLibrary.dll
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\refint\testificateClassLibrary.dll
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\testificateClassLibrary.pdb
+C:\Users\osint\Desktop\libCowDev\libCow\testificateClassLibrary\obj\Debug\net9.0\ref\testificateClassLibrary.dll
